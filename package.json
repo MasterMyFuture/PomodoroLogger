@@ -49,7 +49,7 @@
         "appId": "com.github.rem2016.pomodoro-logger",
         "publish": {
             "provider": "github",
-            "owner": "MasterMyFuture",
+            "owner": "eaze",
             "repo": "PomodoroLogger"
         },
         "mac": {
