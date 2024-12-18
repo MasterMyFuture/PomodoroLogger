@@ -1,0 +1,4 @@
+      - name: Debug github.ref
+        run: |
+          echo ${{ github.ref }}
+          echo ${{ secrets.GIT_TOKEN }}
