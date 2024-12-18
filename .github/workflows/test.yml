@@ -1,4 +1,6 @@
 name: Debug github.ref
+
+on: workflow_dispatch
 run: |
   echo ${{ github.ref }}
   echo ${{ secrets.GIT_TOKEN }}
